@@ -1,4 +1,9 @@
 /**
+ * 工具函数
+ * 对于深拷贝存在的存在的问题以及修复，请移步 https://blog.csdn.net/qq_41534913/article/details/115762044
+ * /
+
+/**
  * Get the first item that pass the test
  * by second argument function
  *
